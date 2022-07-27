@@ -6,7 +6,7 @@ import styles from "./layout.module.css";
 
 // todo
 const name = "Greygrey";
-export const siteTitle = "Next.js Sample Website";
+export const siteTitle = "Grey's Blog";
 
 export default function Layout({ children, home }) {
   return (
